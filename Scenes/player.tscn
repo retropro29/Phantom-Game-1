@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://dr7lukav74ap5"]
 
-[ext_resource type="Script" uid="uid://bmlyufljiyvns" path="res://Scenes/player.gd" id="1_5x828"]
+[ext_resource type="Script" uid="uid://bmlyufljiyvns" path="res://Scripts/player.gd" id="1_5x828"]
 [ext_resource type="Texture2D" uid="uid://3r1pat3lvfon" path="res://Assets/BlueWizard/2BlueWizardIdle/Chara - BlueIdle00000.png" id="1_8eeqe"]
 [ext_resource type="Texture2D" uid="uid://c2oe3mjx0i05n" path="res://Assets/BlueWizard/2BlueWizardIdle/Chara - BlueIdle00001.png" id="2_5x828"]
 [ext_resource type="Texture2D" uid="uid://m7txh2ww5f1n" path="res://Assets/BlueWizard/2BlueWizardIdle/Chara - BlueIdle00002.png" id="3_c1k8q"]
